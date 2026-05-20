@@ -1,0 +1,2032 @@
+{
+  "document_title": "FIDE LAWS of CHESS",
+  "document_type": "Laws/Regulations",
+  "major_sections": [
+    {
+      "title": "PREFACE",
+      "page_reference": 2
+    },
+    {
+      "title": "BASIC RULES OF PLAY",
+      "page_reference": 2
+    },
+    {
+      "title": "Article 1: The nature and objectives of the game of chess",
+      "page_reference": 2
+    },
+    {
+      "title": "Article 2: The initial position of the pieces on the chessboard",
+      "page_reference": 3
+    },
+    {
+      "title": "Article 3: The moves of the pieces",
+      "page_reference": 4
+    },
+    {
+      "title": "Article 4: The act of moving the pieces",
+      "page_reference": 7
+    },
+    {
+      "title": "Article 5: The completion of the game",
+      "page_reference": 8
+    },
+    {
+      "title": "COMPETITION RULES",
+      "page_reference": 9
+    },
+    {
+      "title": "Article 6: The chess clock",
+      "page_reference": 9
+    },
+    {
+      "title": "Article 7: Irregularities",
+      "page_reference": 11
+    },
+    {
+      "title": "Article 8: The recording of the moves",
+      "page_reference": 11
+    },
+    {
+      "title": "Article 9: The drawn game",
+      "page_reference": 12
+    },
+    {
+      "title": "Article 10: Quickplay finish",
+      "page_reference": 13
+    },
+    {
+      "title": "Article 11: Points",
+      "page_reference": 14
+    },
+    {
+      "title": "Article 12: The conduct of the players",
+      "page_reference": 14
+    },
+    {
+      "title": "Article 13: The role of the arbiter (see Preface)",
+      "page_reference": 15
+    },
+    {
+      "title": "Article 14: FIDE",
+      "page_reference": 16
+    },
+    {
+      "title": "Appendices",
+      "page_reference": 17
+    },
+    {
+      "title": "A. Rapidplay",
+      "page_reference": 17
+    },
+    {
+      "title": "B. Blitz",
+      "page_reference": 17
+    },
+    {
+      "title": "C. Algebraic notation",
+      "page_reference": 18
+    },
+    {
+      "title": "D. Quickplay finishes where no arbiter is present in the venue",
+      "page_reference": 20
+    },
+    {
+      "title": "E. Rules for play with Blind and Visually Handicapped",
+      "page_reference": 20
+    },
+    {
+      "title": "F. Chess960 rules",
+      "page_reference": 22
+    },
+    {
+      "title": "Guidelines in case a game needs to be adjourned",
+      "page_reference": 24
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Player has the move",
+      "meaning": "When his opponent's move has been 'made'.",
+      "page_reference": 2
+    },
+    {
+      "term": "Files",
+      "meaning": "The eight vertical columns of squares are called 'files'.",
+      "page_reference": 3
+    },
+    {
+      "term": "Ranks",
+      "meaning": "The eight horizontal rows of squares are called 'ranks'.",
+      "page_reference": 3
+    },
+    {
+      "term": "Diagonal",
+      "meaning": "A straight line of squares of the same colour, running from one edge of the board to an adjacent edge, is called a 'diagonal'.",
+      "page_reference": 3
+    },
+    {
+      "term": "Promotion",
+      "meaning": "When a pawn reaches the rank furthest from its starting position it must be exchanged as part of the same move on the same square for a new queen, rook, bishop or knight of the same colour.",
+      "page_reference": 6
+    },
+    {
+      "term": "King 'in check'",
+      "meaning": "If it is attacked by one or more of the opponent's pieces, even if such pieces are constrained from moving to that square because they would then leave or place their own king in check.",
+      "page_reference": 7
+    },
+    {
+      "term": "Legal move",
+      "meaning": "A move is called legal when all the relevant requirements of Article 3 have been fulfilled.",
+      "page_reference": 8
+    },
+    {
+      "term": "Stalemate",
+      "meaning": "The game is drawn when the player to move has no legal move and his king is not in check.",
+      "page_reference": 8
+    },
+    {
+      "term": "Dead position",
+      "meaning": "The game is drawn when a position has arisen in which neither player can checkmate the opponent's king with any series of legal moves.",
+      "page_reference": 8
+    },
+    {
+      "term": "Chess clock",
+      "meaning": "A clock with two time displays, connected to each other in such a way that only one of them can run at one time.",
+      "page_reference": 9
+    },
+    {
+      "term": "Clock",
+      "meaning": "One of the two time displays.",
+      "page_reference": 9
+    },
+    {
+      "term": "Flag",
+      "meaning": "Each time display has a 'flag'.",
+      "page_reference": 9
+    },
+    {
+      "term": "Flag fall",
+      "meaning": "The expiration of the allotted time for a player.",
+      "page_reference": 9
+    },
+    {
+      "term": "Time delay mode",
+      "meaning": "Both players receive an allotted 'main thinking time'. Each player also receives a 'fixed extra time' with every move. The countdown of the main time only commences after the fixed time has expired. Provided the player stops his clock before the expiration of the fixed time, the main thinking time does not change, irrespective of the proportion of the fixed time used.",
+      "page_reference": 9
+    },
+    {
+      "term": "Quickplay finish",
+      "meaning": "The phase of a game when all the (remaining) moves must be made in a limited time.",
+      "page_reference": 13
+    },
+    {
+      "term": "Playing venue",
+      "meaning": "The playing area, rest rooms, refreshment area, area set aside for smoking and other places as designated by the arbiter.",
+      "page_reference": 14
+    },
+    {
+      "term": "Piece (in Algebraic notation)",
+      "meaning": "A piece other than a pawn.",
+      "page_reference": 18
+    },
+    {
+      "term": "0-0 (kingside castling)",
+      "meaning": "Castling with rook h1 or rook h8",
+      "page_reference": 19
+    },
+    {
+      "term": "0-0-0 (queenside castling)",
+      "meaning": "Castling with rook a1 or rook a8",
+      "page_reference": 19
+    },
+    {
+      "term": "x",
+      "meaning": "Captures",
+      "page_reference": 19
+    },
+    {
+      "term": "+",
+      "meaning": "Check",
+      "page_reference": 19
+    },
+    {
+      "term": "++or#",
+      "meaning": "Checkmate",
+      "page_reference": 19
+    },
+    {
+      "term": "e.p.",
+      "meaning": "Captures 'en passante'",
+      "page_reference": 19
+    },
+    {
+      "term": "Rapidplay game",
+      "meaning": "One where either all the moves must be made in a fixed time of at least 15 minutes but less than 60 minutes for each player; or the time allotted + 60 times any increment is at least 15 minutes, but less than 60 minutes for each player.",
+      "page_reference": 17
+    },
+    {
+      "term": "Blitz game",
+      "meaning": "One where all the moves must be made in a fixed time of less than 15 minutes for each player; or the allotted time + 60 times any increment is less than 15 minutes.",
+      "page_reference": 17
+    }
+  ],
+  "rules": [
+    {
+      "rule_name": "Objective of the game",
+      "description": "To checkmate the opponent's king in such a way that the opponent has no legal move.",
+      "conditions": [],
+      "exceptions": [
+        "Leaving one's own king under attack",
+        "Exposing one's own king to attack",
+        "Capturing the opponent's king"
+      ],
+      "penalties": [
+        "The opponent whose king has been checkmated has lost the game."
+      ],
+      "page_reference": 2
+    },
+    {
+      "rule_name": "Drawn game by impossibility of checkmate",
+      "description": "If the position is such that neither player can possibly checkmate, the game is drawn.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 2
+    },
+    {
+      "rule_name": "Chessboard setup and orientation",
+      "description": "The chessboard is composed of an 8x8 grid of 64 equal squares alternately light and dark. It is placed between the players so that the near corner square to the right of the player is white.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 3
+    },
+    {
+      "rule_name": "Initial piece setup",
+      "description": "At the beginning of the game, one player has 16 light-coloured pieces ('white'), and the other has 16 dark-coloured pieces ('black'). The initial position is shown in a diagram.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 3
+    },
+    {
+      "rule_name": "Prohibited moves and captures",
+      "description": "It is not permitted to move a piece to a square occupied by a piece of the same colour.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 4
+    },
+    {
+      "rule_name": "Capture mechanism",
+      "description": "If a piece moves to a square occupied by an opponent's piece, the latter is captured and removed from the chessboard as part of the same move.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 4
+    },
+    {
+      "rule_name": "Bishop movement",
+      "description": "The bishop may move to any square along a diagonal on which it stands.",
+      "conditions": [],
+      "exceptions": [
+        "May not move over any intervening pieces."
+      ],
+      "penalties": [],
+      "page_reference": 4
+    },
+    {
+      "rule_name": "Rook movement",
+      "description": "The rook may move to any square along the file or the rank on which it stands.",
+      "conditions": [],
+      "exceptions": [
+        "May not move over any intervening pieces."
+      ],
+      "penalties": [],
+      "page_reference": 4
+    },
+    {
+      "rule_name": "Queen movement",
+      "description": "The queen may move to any square along the file, the rank or a diagonal on which it stands.",
+      "conditions": [],
+      "exceptions": [
+        "May not move over any intervening pieces."
+      ],
+      "penalties": [],
+      "page_reference": 4
+    },
+    {
+      "rule_name": "Knight movement",
+      "description": "The knight may move to one of the squares nearest to that on which it stands but not on the same rank, file or diagonal.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 5
+    },
+    {
+      "rule_name": "Pawn forward movement",
+      "description": "The pawn may move forward to the unoccupied square immediately in front of it on the same file.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 5
+    },
+    {
+      "rule_name": "Pawn first move",
+      "description": "On its first move the pawn may advance two squares along the same file.",
+      "conditions": [
+        "Both squares must be unoccupied."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 5
+    },
+    {
+      "rule_name": "Pawn capture movement",
+      "description": "The pawn may move to a square occupied by an opponent's piece, which is diagonally in front of it on an adjacent file, capturing that piece.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 5
+    },
+    {
+      "rule_name": "En passant capture",
+      "description": "A pawn attacking a square crossed by an opponent's pawn which has advanced two squares in one move from its original square may capture this opponent's pawn as though the latter had been moved only one square.",
+      "conditions": [
+        "This capture is only legal on the move following this advance."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 5
+    },
+    {
+      "rule_name": "Pawn promotion",
+      "description": "When a pawn reaches the rank furthest from its starting position it must be exchanged as part of the same move on the same square for a new queen, rook, bishop or knight of the same colour. The player's choice is not restricted to pieces that have been captured previously. The effect of the new piece is immediate.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 6
+    },
+    {
+      "rule_name": "King normal movement",
+      "description": "The king may move to any adjoining square.",
+      "conditions": [
+        "The target square must not be attacked by one or more of the opponent's pieces."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 6
+    },
+    {
+      "rule_name": "Castling movement",
+      "description": "The king is transferred from its original square two squares towards the rook on its original square, then that rook is transferred to the square the king has just crossed. This counts as a single move of the king.",
+      "conditions": [
+        "King and rook must be of the same colour.",
+        "Must be along the player's first rank."
+      ],
+      "exceptions": [
+        "The right to castle has been lost if the king has already moved.",
+        "The right to castle has been lost with a rook that has already moved.",
+        "Castling is prevented temporarily if the square on which the king stands, or the square which it must cross, or the square which it is to occupy, is attacked by one or more of the opponent's pieces.",
+        "Castling is prevented temporarily if there is any piece between the king and the rook with which castling is to be effected."
+      ],
+      "penalties": [],
+      "page_reference": 6
+    },
+    {
+      "rule_name": "King safety (no illegal moves)",
+      "description": "No piece can be moved that will either expose the king of the same colour to check or leave that king in check.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 7
+    },
+    {
+      "rule_name": "Move execution (one hand)",
+      "description": "Each move must be made with one hand only.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 7
+    },
+    {
+      "rule_name": "Adjusting pieces ('j'adoube')",
+      "description": "The player having the move may adjust one or more pieces on their squares.",
+      "conditions": [
+        "Player first expresses intention (e.g., by saying 'j'adoube' or 'I adjust')."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 7
+    },
+    {
+      "rule_name": "Touch-move rule (own pieces)",
+      "description": "If the player having the move deliberately touches one or more of his own pieces, he must move the first piece touched which can be moved.",
+      "conditions": [],
+      "exceptions": [
+        "If adjusting pieces per Article 4.2."
+      ],
+      "penalties": [],
+      "page_reference": 7
+    },
+    {
+      "rule_name": "Touch-move rule (opponent's pieces)",
+      "description": "If the player having the move deliberately touches one or more of his opponent's pieces, he must capture the first piece touched which can be captured.",
+      "conditions": [],
+      "exceptions": [
+        "If adjusting pieces per Article 4.2."
+      ],
+      "penalties": [],
+      "page_reference": 7
+    },
+    {
+      "rule_name": "Touch-move rule (one of each colour)",
+      "description": "If the player having the move deliberately touches one piece of each colour, he must capture the opponent's piece with his piece or, if this is illegal, move or capture the first piece touched which can be moved or captured. If it is unclear, whether the player's own piece or his opponent's was touched first, the player's own piece shall be considered to have been touched before his opponent's.",
+      "conditions": [],
+      "exceptions": [
+        "If adjusting pieces per Article 4.2."
+      ],
+      "penalties": [],
+      "page_reference": 7
+    },
+    {
+      "rule_name": "Touch-move rule (king and rook for castling)",
+      "description": "If a player having the move deliberately touches his king and rook he must castle on that side.",
+      "conditions": [
+        "It must be legal to do so."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 7
+    },
+    {
+      "rule_name": "Touch-move rule (rook then king for castling)",
+      "description": "If a player having the move deliberately touches a rook and then his king he is not allowed to castle on that side on that move.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 7
+    },
+    {
+      "rule_name": "Touch-move rule (illegal castling intention)",
+      "description": "If a player intending to castle, touches the king or king and rook at the same time, but castling on that side is illegal, the player must make another legal move with his king (which may include castling on the other side).",
+      "conditions": [
+        "If the king has no legal move, the player is free to make any legal move."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 7
+    },
+    {
+      "rule_name": "Pawn promotion finalization",
+      "description": "If a player promotes a pawn, the choice of the piece is finalised, when the piece has touched the square of promotion.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 7
+    },
+    {
+      "rule_name": "No valid piece touched",
+      "description": "If none of the pieces touched can be moved or captured, the player may make any legal move.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Move completion (general)",
+      "description": "When, as a legal move or part of a legal move, a piece has been released on a square, it cannot be moved to another square on this move. The move is then considered to have been made.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Move completion (capture)",
+      "description": "The move is considered made when the captured piece has been removed from the chessboard and the player, having placed his own piece on its new square, has released this capturing piece from his hand.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Move completion (castling)",
+      "description": "The move is considered made when the player's hand has released the rook on the square previously crossed by the king. When the player has released the king from his hand, the move is not yet made, but the player no longer has the right to make any move other than castling on that side, if this is legal.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Move completion (pawn promotion)",
+      "description": "The move is considered made when the pawn has been removed from the chessboard and the player's hand has released the new piece after placing it on the promotion square. If the player has released from his hand the pawn that has reached the promotion square, the move is not yet made, but the player no longer has the right to play the pawn to another square.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Illegal move correction",
+      "description": "If a move is not legal, another move shall be made instead as per Article 4.5.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Forfeit claim right (Article 4 violation)",
+      "description": "A player forfeits his right to a claim against his opponent's violation of Article 4 once he deliberately touches a piece.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Winning by checkmate",
+      "description": "The game is won by the player who has checkmated his opponent's king. This immediately ends the game.",
+      "conditions": [
+        "The move producing the checkmate position was a legal move."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Winning by resignation",
+      "description": "The game is won by the player whose opponent declares he resigns. This immediately ends the game.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Drawn game by stalemate",
+      "description": "The game is drawn when the player to move has no legal move and his king is not in check. This immediately ends the game.",
+      "conditions": [
+        "The move producing the stalemate position was legal."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Drawn game by dead position",
+      "description": "The game is drawn when a position has arisen in which neither player can checkmate the opponent's king with any series of legal moves. This immediately ends the game.",
+      "conditions": [
+        "The move producing the position was legal."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Drawn game by agreement",
+      "description": "The game is drawn upon agreement between the two players during the game. This immediately ends the game.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Drawn game by threefold repetition (may be drawn)",
+      "description": "The game may be drawn if any identical position is about to appear or has appeared on the chessboard at least three times.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Drawn game by fifty-move rule (may be drawn)",
+      "description": "The game may be drawn if each player has made at least the last 50 consecutive moves without the movement of any pawn and without any capture.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 8
+    },
+    {
+      "rule_name": "Time control requirements",
+      "description": "Each player must make a minimum number of moves or all moves in an allotted period of time and/or may be allocated an additional amount of time with each move. All these must be specified in advance.",
+      "conditions": [
+        "When using a chess clock."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 9
+    },
+    {
+      "rule_name": "Time saving in time control",
+      "description": "The time saved by a player during one period is added to his time available for the next period.",
+      "conditions": [],
+      "exceptions": [
+        "In the 'time delay' mode."
+      ],
+      "penalties": [],
+      "page_reference": 9
+    },
+    {
+      "rule_name": "Check flag fall requirements",
+      "description": "Immediately after a flag falls, the requirements of article 6.2 a. must be checked.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 9
+    },
+    {
+      "rule_name": "Chess clock placement",
+      "description": "Before the start of the game the arbiter decides where the chess clock is placed.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 9
+    },
+    {
+      "rule_name": "Starting the clock",
+      "description": "At the time determined for the start of the game the clock of the player who has the white pieces is started.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 9
+    },
+    {
+      "rule_name": "Player arrival and default time",
+      "description": "Any player who arrives at the chessboard after the start of the session shall lose the game.",
+      "conditions": [
+        "The default time is 0 minutes."
+      ],
+      "exceptions": [
+        "The rules of a competition may specify otherwise."
+      ],
+      "penalties": [
+        "Loss of the game."
+      ],
+      "page_reference": 9
+    },
+    {
+      "rule_name": "Absence of both players at start",
+      "description": "If neither player is present initially, the player who has the white pieces shall lose all the time that elapses until he arrives.",
+      "conditions": [],
+      "exceptions": [
+        "Unless the rules of the competition specify or the arbiter decides otherwise."
+      ],
+      "penalties": [],
+      "page_reference": 9
+    },
+    {
+      "rule_name": "Clock operation during game",
+      "description": "During the game each player, having made his move on the chessboard, shall stop his own clock and start his opponent's clock. A player must always be allowed to stop his clock. His move is not considered to have been completed until he has done so, unless the move that was made ends the game.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 9
+    },
+    {
+      "rule_name": "Time between move and clock press",
+      "description": "The time between making the move on the chessboard and stopping his own clock and starting his opponent's clock is regarded as part of the time allotted to the player.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 9
+    },
+    {
+      "rule_name": "Clock operating hand",
+      "description": "A player must stop his clock with the same hand as that with which he made his move. It is forbidden for a player to keep his finger on the button or to 'hover' over it.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Improper clock handling shall be penalised in accordance with Article 13.4."
+      ],
+      "page_reference": 9
+    },
+    {
+      "rule_name": "Player unable to use clock",
+      "description": "If a player is unable to use the clock, an assistant, who must be acceptable to the arbiter, may be provided by the player to perform this operation.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "His clock shall be adjusted by the arbiter in an equitable way."
+      ],
+      "page_reference": 10
+    },
+    {
+      "rule_name": "Flag fall observation",
+      "description": "A flag is considered to have fallen when the arbiter observes the fact or when either player has made a valid claim to that effect.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 10
+    },
+    {
+      "rule_name": "Loss on time",
+      "description": "If a player does not complete the prescribed number of moves in the allotted time, the game is lost by the player.",
+      "conditions": [],
+      "exceptions": [
+        "Where one of the Articles: 5.1.a, 5.1.b, 5.2.a, 5.2.b, 5.2.c applies.",
+        "The game is drawn, if the position is such that the opponent cannot checkmate the player's king by any possible series of legal moves."
+      ],
+      "penalties": [
+        "Loss of game."
+      ],
+      "page_reference": 10
+    },
+    {
+      "rule_name": "Clock defect/accuracy",
+      "description": "Every indication given by the clocks is considered to be conclusive in the absence of any evident defect. A chess clock with an evident defect shall be replaced.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "The arbiter shall replace the clock and use his best judgment when determining the times to be shown on the replacement chess clocks."
+      ],
+      "page_reference": 10
+    },
+    {
+      "rule_name": "Incorrect clock setting during game",
+      "description": "If during a game it is found that the setting of either or both clocks was incorrect, either player or the arbiter shall stop the clocks immediately. The arbiter shall install the correct setting and adjust the times and move counter.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "The arbiter shall use his best judgement when determining the correct settings."
+      ],
+      "page_reference": 10
+    },
+    {
+      "rule_name": "Both flags fallen (which first unclear)",
+      "description": "If both flags have fallen and it is impossible to establish which flag fell first then:",
+      "conditions": [
+        "If it happens in any period of the game except the last period, the game shall continue.",
+        "If it happens in the period of a game, in which all remaining moves must be completed, the game is drawn."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 10
+    },
+    {
+      "rule_name": "Game interruption (arbiter)",
+      "description": "If the game needs to be interrupted, the arbiter shall stop the clocks.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 10
+    },
+    {
+      "rule_name": "Game interruption (player)",
+      "description": "A player may stop the clocks only in order to seek the arbiter's assistance, for example when promotion has taken place and the piece required is not available.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "If it is obvious that the player had no valid reason for stopping the clocks, the player shall be penalised according to Article 13.4."
+      ],
+      "page_reference": 10
+    },
+    {
+      "rule_name": "Game restart after interruption",
+      "description": "The arbiter shall decide when the game is to be restarted.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 10
+    },
+    {
+      "rule_name": "Clock adjustment after irregularity/restoration",
+      "description": "If an irregularity occurs and/or the pieces have to be restored to a previous position, the arbiter shall use his best judgement to determine the times to be shown on the clocks.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "He shall also, if necessary, adjust the clock's move counter."
+      ],
+      "page_reference": 10
+    },
+    {
+      "rule_name": "Use of external displays",
+      "description": "Screens, monitors, or demonstration boards showing the current position on the chessboard, the moves and the number of moves made, and clocks which also show the number of moves, are allowed in the playing hall.",
+      "conditions": [],
+      "exceptions": [
+        "The player may not make a claim relying solely on information shown in this manner."
+      ],
+      "penalties": [],
+      "page_reference": 10
+    },
+    {
+      "rule_name": "Incorrect initial position",
+      "description": "If during a game it is found that the initial position of the pieces was incorrect, the game shall be cancelled and a new game played.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 11
+    },
+    {
+      "rule_name": "Incorrect chessboard placement",
+      "description": "If during a game it is found that the chessboard has been placed contrary to Article 2.1, the game continues but the position reached must be transferred to a correctly placed chessboard.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 11
+    },
+    {
+      "rule_name": "Game begun with colours reversed",
+      "description": "If a game has begun with colours reversed then it shall continue.",
+      "conditions": [],
+      "exceptions": [
+        "Unless the arbiter rules otherwise."
+      ],
+      "penalties": [],
+      "page_reference": 11
+    },
+    {
+      "rule_name": "Displaced pieces by player",
+      "description": "If a player displaces one or more pieces, he shall re-establish the correct position on his own time. If necessary, either the player or his opponent shall stop the clocks and ask for the arbiter's assistance.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "The arbiter may penalise the player who displaced the pieces."
+      ],
+      "page_reference": 11
+    },
+    {
+      "rule_name": "Illegal move completed (correction)",
+      "description": "If during a game it is found that an illegal move, including failing to meet the requirements of the promotion of a pawn or capturing the opponent's king, has been completed, the position immediately before the irregularity shall be reinstated. If the position immediately before the irregularity cannot be determined the game shall continue from the last identifiable position prior to the irregularity.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "The clocks shall be adjusted according to Article 6.13. The Articles 4.3 and 4.6 apply to the move replacing the illegal move."
+      ],
+      "page_reference": 11
+    },
+    {
+      "rule_name": "Penalties for illegal moves",
+      "description": "After the action taken under Article 7.4.a, for the first two illegal moves by a player the arbiter shall give two minutes extra time to his opponent in each instance; for a third illegal move by the same player, the arbiter shall declare the game lost by this player.",
+      "conditions": [],
+      "exceptions": [
+        "The game is drawn if the position is such that the opponent cannot checkmate the player's king by any possible series of legal moves."
+      ],
+      "penalties": [
+        "Two minutes extra time to opponent (first two illegal moves).",
+        "Game lost (third illegal move by same player)."
+      ],
+      "page_reference": 11
+    },
+    {
+      "rule_name": "Pieces displaced from squares (correction)",
+      "description": "If during a game it is found that pieces have been displaced from their squares, the position before the irregularity shall be re-instated. If the position immediately before the irregularity cannot be determined, the game shall continue from the last identifiable position prior to the irregularity.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "The clocks shall be adjusted according to Article 6.13."
+      ],
+      "page_reference": 11
+    },
+    {
+      "rule_name": "Recording moves",
+      "description": "In the course of play each player is required to record his own moves and those of his opponent in the correct manner, move after move, as clearly and legibly as possible, in the algebraic notation on the scoresheet prescribed for the competition.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 11
+    },
+    {
+      "rule_name": "Writing moves in advance",
+      "description": "It is forbidden to write the moves in advance.",
+      "conditions": [],
+      "exceptions": [
+        "Unless the player is claiming a draw according to Article 9.2, or 9.3.",
+        "Unless adjourning a game according to the Guidelines of Adjourned Games point 1.a."
+      ],
+      "penalties": [],
+      "page_reference": 11
+    },
+    {
+      "rule_name": "Recording previous move",
+      "description": "A player may reply to his opponent's move before recording it, if he so wishes. He must record his previous move before making another.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 11
+    },
+    {
+      "rule_name": "Recording draw offers",
+      "description": "Both players must record the offer of a draw on the scoresheet.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 11
+    },
+    {
+      "rule_name": "Player unable to keep score",
+      "description": "If a player is unable to keep score, an assistant, who must be acceptable to the arbiter, may be provided by the player to write the moves.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "His clock shall be adjusted by the arbiter in an equitable way."
+      ],
+      "page_reference": 12
+    },
+    {
+      "rule_name": "Scoresheet visibility",
+      "description": "The scoresheet shall be visible to the arbiter throughout the game.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 12
+    },
+    {
+      "rule_name": "Scoresheet ownership",
+      "description": "The scoresheets are the property of the organisers of the event.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 12
+    },
+    {
+      "rule_name": "Recording moves in time trouble",
+      "description": "If a player has less than five minutes left on his clock at some stage in a period and does not have additional time of 30 seconds or more added with each move, then for the remainder of the period he is not obliged to meet the requirements of Article 8.1. Immediately after one flag has fallen the player must update his scoresheet completely before moving a piece on the chessboard.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 12
+    },
+    {
+      "rule_name": "No player required to keep score (arbiter assistance)",
+      "description": "If neither player is required to keep score under Article 8.4, the arbiter or an assistant should try to be present and keep score. In this case, immediately after one flag has fallen, the arbiter shall stop the clocks. Then both players shall update their scoresheets, using the arbiter's or the opponent's scoresheet.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 12
+    },
+    {
+      "rule_name": "One player not required to keep score",
+      "description": "If only one player is not required to keep score under Article 8.4, he must, as soon as either flag has fallen, update his scoresheet completely before moving a piece on the chessboard. Provided it is the player's move, he may use his opponent's scoresheet, but must return it before making a move.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 12
+    },
+    {
+      "rule_name": "No complete scoresheet available (reconstruction)",
+      "description": "If no complete scoresheet is available, the players must reconstruct the game on a second chessboard under the control of the arbiter or an assistant. He shall first record the actual game position, clock times and the number of moves made, if this information is available, before reconstruction takes place.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 12
+    },
+    {
+      "rule_name": "Updating scoresheets (time overstepped)",
+      "description": "If the scoresheets cannot be brought up to date showing that a player has overstepped the allotted time, the next move made shall be considered as the first of the following time period, unless there is evidence that more moves have been made.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 12
+    },
+    {
+      "rule_name": "Signing scoresheets at game conclusion",
+      "description": "At the conclusion of the game both players shall sign both scoresheets, indicating the result of the game. Even if incorrect, this result shall stand.",
+      "conditions": [],
+      "exceptions": [
+        "Unless the arbiter decides otherwise."
+      ],
+      "penalties": [],
+      "page_reference": 12
+    },
+    {
+      "rule_name": "Draw agreement restrictions",
+      "description": "The rules of a competition may specify that players cannot agree to a draw, whether in less than a specified number of moves or at all, without the consent of the arbiter.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 12
+    },
+    {
+      "rule_name": "Draw offer procedure",
+      "description": "A player wishing to offer a draw shall do so after having made a move on the chessboard and before stopping his clock and starting the opponent's clock. An offer at any other time during play is still valid. No conditions can be attached to the offer. The offer cannot be withdrawn and remains valid until the opponent accepts it, rejects it orally, rejects it by touching a piece with the intention of moving or capturing it, or the game is concluded in some other way.",
+      "conditions": [],
+      "exceptions": [
+        "Article 12.6 must be considered if an offer is made at any other time during play."
+      ],
+      "penalties": [],
+      "page_reference": 12
+    },
+    {
+      "rule_name": "Noting draw offers on scoresheet",
+      "description": "The offer of a draw shall be noted by each player on his scoresheet with a symbol.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 13
+    },
+    {
+      "rule_name": "Draw claim as draw offer",
+      "description": "A claim of a draw under Article 9.2, 9.3 or 10.2 shall be considered to be an offer of a draw.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 13
+    },
+    {
+      "rule_name": "Drawn game by threefold repetition (claim)",
+      "description": "The game is drawn upon a correct claim by the player having the move, when the same position, for at least the third time (not necessarily by a repetition of moves): a. is about to appear, if he first writes his move on his scoresheet and declares to the arbiter his intention to make this move, or b. has just appeared, and the player claiming the draw has the move.",
+      "conditions": [
+        "Positions are considered the same if the same player has the move, pieces of the same kind and colour occupy the same squares, and the possible moves of all the pieces of both players are the same."
+      ],
+      "exceptions": [
+        "Positions are not the same if a pawn that could have been captured en passant can no longer be captured in this manner.",
+        "When a king or a rook is forced to move, it will lose its castling rights, if any, only after it is moved."
+      ],
+      "penalties": [],
+      "page_reference": 13
+    },
+    {
+      "rule_name": "Drawn game by fifty-move rule (claim)",
+      "description": "The game is drawn, upon a correct claim by the player having the move, if: a. he writes his move on his scoresheet and declares to the arbiter his intention to make this move, which shall result in the last 50 moves having been made by each player without the movement of any pawn and without any capture, or b. the last 50 consecutive moves have been made by each player without the movement of any pawn and without any capture.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 13
+    },
+    {
+      "rule_name": "Loss of right to claim draw (touching piece)",
+      "description": "If the player touches a piece as in Article 4.3 without having claimed the draw he loses the right to claim, as in Article 9.2 or 9.3, on that move.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 13
+    },
+    {
+      "rule_name": "Draw claim procedure",
+      "description": "If a player claims a draw as in Article 9.2 or 9.3 he may stop both clocks. He is not allowed to withdraw his claim. a. If the claim is found to be correct, the game is immediately drawn. b. If the claim is found to be incorrect, the arbiter shall add three minutes to the opponent's remaining thinking time. Then the game shall continue. If the claim was based on an intended move, this move must be made as according to Article 4.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Three minutes added to opponent's time (incorrect claim)."
+      ],
+      "page_reference": 13
+    },
+    {
+      "rule_name": "Drawn game by impossibility of checkmate (automatic)",
+      "description": "The game is drawn when a position is reached from which a checkmate cannot occur by any possible series of legal moves. This immediately ends the game.",
+      "conditions": [
+        "Provided that the move producing this position was legal."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 13
+    },
+    {
+      "rule_name": "Quickplay finish draw claim",
+      "description": "If the player, having the move, has less than two minutes left on his clock, he may claim a draw before his flag falls. He shall summon the arbiter and may stop the clocks. He may claim on the basis: a. that his opponent cannot win by normal means, and/or b. that his opponent has been making no effort to win by normal means.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 13
+    },
+    {
+      "rule_name": "Arbiter decision on quickplay finish draw claim",
+      "description": "If the arbiter agrees the opponent is making no effort to win the game by normal means, or that it is not possible to win by normal means, then he shall declare the game drawn. Otherwise he shall postpone his decision or reject the claim. If the arbiter postpones his decision, the opponent may be awarded two extra minutes and the game shall continue, if possible in the presence of an arbiter. The arbiter shall declare the final result later in the game or as soon as possible after a flag has fallen. He shall declare the game drawn if he agrees that the final position cannot be won by normal means, or that the opponent was not making sufficient attempts to win by normal means. If the arbiter has rejected the claim, the opponent shall be awarded two extra minutes time. The decision of the arbiter shall be final relating to (a), (b) and (c).",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Opponent awarded two extra minutes (if arbiter postpones or rejects claim)."
+      ],
+      "page_reference": 14
+    },
+    {
+      "rule_name": "Scoring points",
+      "description": "A player who wins his game, or wins by forfeit, scores one point (1), a player who loses his game, or forfeits scores no points (0) and a player who draws his game scores a half point (½).",
+      "conditions": [],
+      "exceptions": [
+        "Unless announced otherwise in advance."
+      ],
+      "penalties": [],
+      "page_reference": 14
+    },
+    {
+      "rule_name": "Conduct bringing disrepute",
+      "description": "The players shall take no action that will bring the game of chess into disrepute.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Infraction of any part of Articles 12.1 to 12.6 shall lead to penalties in accordance with Article 13.4."
+      ],
+      "page_reference": 14
+    },
+    {
+      "rule_name": "Leaving playing venue/area",
+      "description": "Players are not allowed to leave the 'playing venue' without permission from the arbiter. The player having the move is not allowed to leave the playing area without permission of the arbiter.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Infraction of any part of Articles 12.1 to 12.6 shall lead to penalties in accordance with Article 13.4."
+      ],
+      "page_reference": 14
+    },
+    {
+      "rule_name": "Use of notes, information, analysis",
+      "description": "During play the players are forbidden to make use of any notes, sources of information or advice, or analyse on another chessboard.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Infraction of any part of Articles 12.1 to 12.6 shall lead to penalties in accordance with Article 13.4."
+      ],
+      "page_reference": 14
+    },
+    {
+      "rule_name": "Electronic devices in playing venue",
+      "description": "Without the permission of the arbiter a player is forbidden to have a mobile phone or other electronic means of communication in the playing venue, unless they are completely switched off. If any such device produces a sound, the player shall lose the game.",
+      "conditions": [],
+      "exceptions": [
+        "If the opponent cannot win the game by any series of legal moves, his score shall be a draw."
+      ],
+      "penalties": [
+        "Loss of game (if device produces sound and opponent can win).",
+        "Infraction of any part of Articles 12.1 to 12.6 shall lead to penalties in accordance with Article 13.4."
+      ],
+      "page_reference": 14
+    },
+    {
+      "rule_name": "Smoking policy",
+      "description": "Smoking is permitted only in the section of the venue designated by the arbiter.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Infraction of any part of Articles 12.1 to 12.6 shall lead to penalties in accordance with Article 13.4."
+      ],
+      "page_reference": 14
+    },
+    {
+      "rule_name": "Scoresheet usage",
+      "description": "The scoresheet shall be used only for recording the moves, the times of the clocks, the offers of a draw, and matters relating to a claim and other relevant data.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Infraction of any part of Articles 12.1 to 12.6 shall lead to penalties in accordance with Article 13.4."
+      ],
+      "page_reference": 14
+    },
+    {
+      "rule_name": "Finished players as spectators",
+      "description": "Players who have finished their games shall be considered to be spectators.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 14
+    },
+    {
+      "rule_name": "Distracting or annoying opponent",
+      "description": "It is forbidden to distract or annoy the opponent in any manner whatsoever. This includes unreasonable claims, unreasonable offers of a draw or the introduction of a source of noise into the playing area.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Infraction of any part of Articles 12.1 to 12.6 shall lead to penalties in accordance with Article 13.4."
+      ],
+      "page_reference": 14
+    },
+    {
+      "rule_name": "Persistent refusal to comply",
+      "description": "Persistent refusal by a player to comply with the Laws of Chess shall be penalised by loss of the game.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Loss of the game.",
+        "The arbiter shall decide the score of the opponent."
+      ],
+      "page_reference": 15
+    },
+    {
+      "rule_name": "Both players guilty of persistent refusal",
+      "description": "If both players are found guilty according to Article 12.8, the game shall be declared lost by both players.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Game declared lost by both players."
+      ],
+      "page_reference": 15
+    },
+    {
+      "rule_name": "Appeal rights",
+      "description": "A player may appeal against any decision of the arbiter.",
+      "conditions": [],
+      "exceptions": [
+        "In the case of Article 10.2.d or Appendix D a player may not appeal against the decision of the arbiter.",
+        "Unless the rules of the competition specify otherwise."
+      ],
+      "penalties": [],
+      "page_reference": 15
+    },
+    {
+      "rule_name": "Arbiter's primary role",
+      "description": "The arbiter shall see that the Laws of Chess are strictly observed.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 15
+    },
+    {
+      "rule_name": "Arbiter's conduct and supervision",
+      "description": "The arbiter shall act in the best interest of the competition. He should ensure that a good playing environment is maintained and that the players are not disturbed. He shall supervise the progress of the competition.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 15
+    },
+    {
+      "rule_name": "Arbiter's observation and enforcement",
+      "description": "The arbiter shall observe the games, especially when the players are short of time, enforce decisions he has made and impose penalties on players where appropriate.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 15
+    },
+    {
+      "rule_name": "Arbiter's penalties list",
+      "description": "The arbiter can apply one or more of the following penalties:",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "warning",
+        "increasing the remaining time of the opponent",
+        "reducing the remaining time of the offending player",
+        "declaring the game to be lost",
+        "reducing the points scored in the game by the offending party",
+        "increasing the points scored in the game by the opponent to the maximum available for that game",
+        "expulsion from the event"
+      ],
+      "page_reference": 15
+    },
+    {
+      "rule_name": "Additional time for external disturbance",
+      "description": "The arbiter may award either or both players additional time in the event of external disturbance of the game.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 15
+    },
+    {
+      "rule_name": "Arbiter intervention restrictions",
+      "description": "The arbiter must not intervene in a game except in cases described by the Laws of Chess. He shall not indicate the number of moves made, except in applying Article 8.5, when at least one flag has fallen. The arbiter shall refrain from informing a player that his opponent has completed a move or that the player has not pressed his clock.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 15
+    },
+    {
+      "rule_name": "Spectator and non-playing interference",
+      "description": "Spectators and players in other games are not to speak about or otherwise interfere in a game. If someone observes an irregularity, he may inform only the arbiter.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "If necessary, the arbiter may expel offenders from the playing venue."
+      ],
+      "page_reference": 15
+    },
+    {
+      "rule_name": "Unauthorized communication devices (anyone)",
+      "description": "Unless authorised by the arbiter, it is forbidden for anybody to use a mobile phone or any kind of communication device in the playing venue and any contiguous area designated by the arbiter.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 16
+    },
+    {
+      "rule_name": "FIDE official decisions on Laws",
+      "description": "Member federations may ask FIDE to give an official decision about problems relating to the Laws of Chess.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 16
+    },
+    {
+      "rule_name": "Rapidplay: Recording moves",
+      "description": "Players do not need to record the moves.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Rapidplay: Application of Competition Rules (adequate supervision)",
+      "description": "Where there is adequate supervision of play (for example one arbiter for at most three games), the Competition Rules shall apply.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Rapidplay: Claims for initial setup (inadequate supervision)",
+      "description": "Once each player has completed three moves, no claim can be made regarding incorrect piece placement, orientation of the chessboard or clock setting.",
+      "conditions": [
+        "Where supervision is inadequate."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Rapidplay: Castling with reverse King and Queen (inadequate supervision)",
+      "description": "In case of reverse king and queen placement castling with this king is not allowed.",
+      "conditions": [
+        "Where supervision is inadequate."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Rapidplay: Arbiter ruling on Article 4 (inadequate supervision)",
+      "description": "The arbiter shall make a ruling according to Article 4 (The act of moving the pieces), only if requested to do so by one or both players.",
+      "conditions": [
+        "Where supervision is inadequate."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Rapidplay: Illegal move completion and claim (inadequate supervision)",
+      "description": "An illegal move is completed once the opponent's clock has been started. The opponent is then entitled to claim that the player completed an illegal move before the claimant has made his move. Only after such a claim, shall the arbiter make a ruling.",
+      "conditions": [
+        "Where supervision is inadequate."
+      ],
+      "exceptions": [
+        "However, if both Kings are in check or the promotion of a pawn is not completed, the arbiter shall intervene, if possible."
+      ],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Rapidplay: Flag fall (inadequate supervision)",
+      "description": "The flag is considered to have fallen when a player has made a valid claim to that effect. The arbiter shall refrain from signalling a flag fall, but he may do so if both flags have fallen.",
+      "conditions": [
+        "Where supervision is inadequate."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Rapidplay: Claim win on time (inadequate supervision)",
+      "description": "To claim a win on time, the claimant must stop both clocks and notify the arbiter. For the claim to be successful, the claimant's flag must remain up and his opponent's flag down after the clocks have been stopped.",
+      "conditions": [
+        "Where supervision is inadequate."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Rapidplay: Both flags fallen (inadequate supervision)",
+      "description": "If both flags have fallen, the arbiter shall declare the game drawn.",
+      "conditions": [
+        "Where supervision is inadequate.",
+        "As described in (1) and (2) for flag fall and win on time claims."
+      ],
+      "exceptions": [],
+      "penalties": [
+        "Game declared drawn."
+      ],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Blitz: Application of Competition Rules (adequate supervision)",
+      "description": "Where there is adequate supervision of play (one arbiter for one game), the Competition Rules and Appendix A.2 shall apply.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Blitz: Application of Rapidplay Laws (inadequate supervision)",
+      "description": "Play shall be governed by the Rapidplay Laws as in Appendix A except where they are overridden by the following Laws of Blitz.",
+      "conditions": [
+        "Where supervision is inadequate."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Blitz: Quickplay finish and arbiter ruling on Article 4 (inadequate supervision)",
+      "description": "Article 10.2 and Appendix A.4.c do not apply.",
+      "conditions": [
+        "Where supervision is inadequate."
+      ],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Blitz: Illegal move completion and claim (inadequate supervision)",
+      "description": "An illegal move is completed once the opponent's clock has been started. The opponent is entitled to claim a win before he has made his own move.",
+      "conditions": [
+        "Where supervision is inadequate."
+      ],
+      "exceptions": [
+        "However, if the opponent cannot checkmate the player's king by any possible series of legal moves, then the claimant is entitled to claim a draw before he has made his own move.",
+        "Once the opponent has made his own move, an illegal move cannot be corrected unless mutually agreed without intervention of an arbiter."
+      ],
+      "penalties": [],
+      "page_reference": 17
+    },
+    {
+      "rule_name": "Algebraic notation requirement",
+      "description": "FIDE recognizes for its own tournaments and matches only one system of notation, the Algebraic System, and recommends the use of this uniform chess notation also for chess literature and periodicals. Scoresheets using a notation system other than algebraic may not be used as evidence in cases where normally the scoresheet of a player is used for that purpose.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "An arbiter who observes that a player is using a notation system other than the algebraic should warn the player about of this requirement."
+      ],
+      "page_reference": 18
+    },
+    {
+      "rule_name": "Notation of pieces",
+      "description": "Each piece is indicated by the first letter, a capital letter, of its name. (K=king, Q=queen, R=rook, B=bishop, N=knight for knight). For the first letter of the name of the pieces, each player is free to use the first letter of the name which is commonly used in his country.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 18
+    },
+    {
+      "rule_name": "Notation of pawns",
+      "description": "Pawns are not indicated by their first letter, but are recognized by the absence of such a letter. Examples: e5, d4, a5.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 18
+    },
+    {
+      "rule_name": "Notation of files",
+      "description": "The eight vertical columns of squares are indicated by the small letters, a, b, c, d, e, f, g, and h, respectively (from the left to right for White and from right to left for Black).",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 18
+    },
+    {
+      "rule_name": "Notation of ranks",
+      "description": "The eight horizontal rows of squares are numbered 1, 2, 3, 4, 5, 6, 7, 8, respectively (from bottom to top for White and from top to bottom for Black). In the initial position the white pieces and pawns are placed on the first and second ranks; the black pieces and pawns on the eighth and seventh ranks.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 18
+    },
+    {
+      "rule_name": "Notation of squares",
+      "description": "Each of the sixty-four squares is invariably indicated by a unique combination of a letter and a number.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 18
+    },
+    {
+      "rule_name": "Notation of piece moves",
+      "description": "Each move of a piece is indicated by the first letter of the name of the piece in question and the square of arrival. There is no hyphen between them. In the case of pawns, only the square of arrival is indicated.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 19
+    },
+    {
+      "rule_name": "Notation of captures",
+      "description": "When a piece makes a capture, an 'x' is inserted between the first letter of the name of the piece in question and the square of arrival. When a pawn makes a capture, the file of departure must be indicated, then an 'x', then the square of arrival. In the case of an 'en passante' capture, the square of arrival is given as the square on which the capturing pawn finally rests and 'e.p.' is appended to the notation.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 19
+    },
+    {
+      "rule_name": "Notation for ambiguous piece moves",
+      "description": "If two identical pieces can move to the same square, the piece that is moved is indicated as follows: 1. If both pieces are on the same rank: by the first letter of the name of the piece, the file of departure, and the square of arrival. 2. If both pieces are on the same file: by the first letter of the name of the piece, the rank of the square of departure, and the square of arrival. If the pieces are on different ranks and files method 1) is preferred. In the case of capture, an 'x' may be inserted.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 19
+    },
+    {
+      "rule_name": "Notation for ambiguous pawn captures",
+      "description": "If two pawns can capture the same piece or pawn of the opponent, the pawn that is moved is indicated by the letter of the file of departure, an 'x', and the square of arrival.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 19
+    },
+    {
+      "rule_name": "Notation for pawn promotion",
+      "description": "In the case of the promotion of a pawn, the actual pawn move is indicated, followed immediately by the first letter of the new piece.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 19
+    },
+    {
+      "rule_name": "Notation for draw offer",
+      "description": "The offer of a draw shall be marked as (=).",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 19
+    },
+    {
+      "rule_name": "Optional notation for check/capture",
+      "description": "It is not mandatory to record the check, the checkmate and capturing on the scoresheet.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 19
+    },
+    {
+      "rule_name": "Quickplay finishes without arbiter: Draw claim",
+      "description": "A player may claim a draw when he has less than two minutes left on his clock and before his flag falls. This concludes the game.",
+      "conditions": [
+        "Claim based on: a. his opponent cannot win by normal means, and/or b. his opponent has been making no effort to win by normal means.",
+        "For (a) the player must write down the final position and his opponent verify it.",
+        "For (b) the player must write down the final position and submit an up to date scoresheet. The opponent shall verify both the scoresheet and the final position."
+      ],
+      "exceptions": [],
+      "penalties": [
+        "The claim shall be referred to an arbiter whose decision shall be final."
+      ],
+      "page_reference": 20
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Two boards usage",
+      "description": "In competitive chess between sighted and visually handicapped players (legally blind) either player may demand the use of two boards, the sighted player using a normal board, the visually handicapped player using one specially constructed.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 20
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Board requirements",
+      "description": "The specially constructed board must meet the following requirements: a. at least 20 by 20 centimetres, and b. the black squares slightly raised, and c. a securing aperture in each square, and d. every piece provided with a peg that fits into the securing aperture, and e. pieces of Staunton design, the black pieces being specially marked.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 20
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Move announcement and execution",
+      "description": "The moves shall be announced clearly, repeated by the opponent and executed on his chessboard. When promoting a pawn, the player must announce which piece is chosen. To make the announcement as clear as possible, the use of suggested names is recommended.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 20
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Piece 'touched' definition",
+      "description": "On the visually handicapped player's board a piece shall be considered 'touched' when it has been taken out of the securing aperture.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 21
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Move 'executed' definition",
+      "description": "A move shall be considered 'executed' when: a. in the case of a capture, the captured piece has been removed from the board of the player whose turn it is to move b. a piece is placed into a different securing aperture c. the move has been announced. Only then the opponent's clock shall be started. As far as points 2 and 3 are concerned the normal rules are valid for the sighted player.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 21
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Chess clock features",
+      "description": "A specially constructed chess clock for the visually handicapped shall be admissible. It shall incorporate the following features: a. a dial fitted with reinforced hands, with every five minutes marked by one dot, and every 15 minutes by two raised dots, and b. a flag which can be easily felt. Care should be taken that the flag is so arranged as to allow the player to feel the minute hand during the last 5 minutes of the full hour.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 21
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Scorekeeping",
+      "description": "The visually handicapped player must keep score of the game in Braille or longhand or record the moves on a tape recorder.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 21
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Correcting move announcement",
+      "description": "A slip of the tongue in the announcement of a move must be corrected immediately and before the clock of the opponent is started.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 21
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Correcting board positions",
+      "description": "If during a game different positions should arise on the two boards, they must be corrected with the assistance of the controller and by consulting both players' game scores. If the two game scores correspond with each other, the player who has written the correct move but executed the wrong one must adjust his position to correspond with the move on the game scores.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 21
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Correcting differing game scores",
+      "description": "If, when such differences occur and the two game scores are found to differ, the moves shall be retraced to the point where the two scores agree and the controller shall readjust the clocks accordingly.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 21
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Assistant duties",
+      "description": "The visually handicapped player shall have the right to make use of an assistant who shall have any or all of the following duties: a. make either player's move on the board of the opponent b. announce the moves of both players c. keep the game score of the visually handicapped player and start his opponent's clock (keeping point 3.c in mind) d. inform the visually handicapped player only at his request of the number of moves completed and the time used up by both players e. claim the game in cases where the time limit has been exceeded and inform the controller when the sighted player has touched one of his pieces f. carry out the necessary formalities in case the game is adjourned.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 21
+    },
+    {
+      "rule_name": "Blind and Visually Handicapped: Sighted player using assistant",
+      "description": "If the visually handicapped player does not make use of an assistant, the sighted player may make use of one who shall carry out the duties mentioned in points 9.a and 9.b.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 22
+    },
+    {
+      "rule_name": "Chess960: General play",
+      "description": "Before a Chess960 game a starting position is randomly set up, subject to certain rules. After this, the game is played in the same way as standard chess. In particular, pieces and pawns have their normal moves, and each player's objective is to checkmate the opponent's king.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 22
+    },
+    {
+      "rule_name": "Chess960: Starting position requirements",
+      "description": "The starting position for Chess960 must meet certain rules. White pawns are placed on the second rank as in regular chess. All remaining white pieces are placed randomly on the first rank, but with the following restrictions: a. the king is placed somewhere between the two rooks, and b. the bishops are placed on opposite-colored squares, and c. the black pieces are placed equal-and-opposite to the white pieces. The starting position can be generated before the game either by a computer program or using dice, coin, cards, etc.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 22
+    },
+    {
+      "rule_name": "Chess960: Castling rules",
+      "description": "Chess960 allows each player to castle once per game, a move by potentially both the king and rook in a single move. However, a few interpretations of standard chess games rules are needed for castling, because the standard rules presume initial locations of the rook and king that are often not applicable in Chess960.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 22
+    },
+    {
+      "rule_name": "Chess960: Castling methods",
+      "description": "In Chess960, depending on the pre-castling position on the castling king and rook, the castling manoeuvre is performed by one of these four methods: 1. double-move castling: by on one turn making a move with the king and a move with the rook, or 2. transposition castling: by transposing the position of the king and the rook, or 3. king-move-only castling: by making only a move with the king, or 4. rook-move-only castling: by making only a move with the rook.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 22
+    },
+    {
+      "rule_name": "Chess960: Post-castling positions",
+      "description": "After castling, the rook and king's final positions are exactly the same positions as they would be in standard chess. Thus, after c-side castling (notated as O-O-O), the King is on the c-square (c1 for White and c8 for Black) and the Rook is on the d-square (d1 for White and d8 for Black). After g-side castling (notated as O-O), the King is on the g-square (g1 for White and g8 for Black) and the Rook is on the f-square (f1 for White and f8 for Black).",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 23
+    },
+    {
+      "rule_name": "Chess960: Castling vacancy rules",
+      "description": "The squares between the king's initial and final squares (including the final square), and all of the squares between the rook's initial and final squares (including the final square), must be vacant except for the king and castling rook. In some starting positions, some squares can stay filled during castling that would have to be vacant in standard chess.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 23
+    },
+    {
+      "rule_name": "Adjourned Games: Sealing a move",
+      "description": "If a game is not finished at the end of the time prescribed for play, the arbiter shall require the player having the move to 'seal' that move. The player must write his move in unambiguous notation on his scoresheet, put his scoresheet and that of his opponent in an envelope, seal the envelope and only then stop his clock without starting his opponent's clock. Until he has stopped the clocks, the player retains the right to change his sealed move. If, after being told by the arbiter to seal his move, the player makes a move on the chessboard he must write that same move on his scoresheet as his sealed move.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 24
+    },
+    {
+      "rule_name": "Adjourned Games: Adjourning before session end",
+      "description": "A player having the move, who adjourns the game before the end of the playing session, shall be considered to have sealed at the nominal time for the end of the session, and his remaining time shall so be recorded.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 24
+    },
+    {
+      "rule_name": "Adjourned Games: Envelope contents",
+      "description": "The following shall be indicated upon the envelope: a. the names of the players, and b. the position immediately before the sealed move, and c. the time used by each player, and d. the name of the player who has sealed the move, and e. the number of the sealed move, and f. the offer of a draw, if the proposal is current, and g. the date, time and venue of resumption of play.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 24
+    },
+    {
+      "rule_name": "Adjourned Games: Arbiter responsibility for envelope",
+      "description": "The arbiter shall check the accuracy of the information on the envelope and is responsible for the safe-keeping of it.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 24
+    },
+    {
+      "rule_name": "Adjourned Games: Draw offer during adjournment",
+      "description": "If a player proposes a draw after his opponent has sealed his move, the offer is valid until the opponent has accepted it or rejected it as in Article 9.1.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 24
+    },
+    {
+      "rule_name": "Adjourned Games: Resumption setup",
+      "description": "Before the game is to be resumed, the position immediately before the sealed move shall be set up on the chessboard, and the times used by each player when the game was adjourned shall be indicated on the clocks.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 24
+    },
+    {
+      "rule_name": "Adjourned Games: Conclusion before resumption",
+      "description": "If prior to the resumption the game is agreed drawn, or if one of the players notifies the arbiter that he resigns, the game is concluded.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 24
+    },
+    {
+      "rule_name": "Adjourned Games: Opening the envelope",
+      "description": "The envelope shall be opened only when the player who must reply to the sealed move is present.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 24
+    },
+    {
+      "rule_name": "Adjourned Games: Lost game for sealed move recording errors",
+      "description": "The game is lost by a player whose recording of his sealed move: a. is ambiguous, or b. is recorded such that its true significance is impossible to establish, or c. is illegal.",
+      "conditions": [],
+      "exceptions": [
+        "Except in the cases mentioned in the Articles 5, 6.9 and 9.6."
+      ],
+      "penalties": [
+        "Loss of game."
+      ],
+      "page_reference": 24
+    },
+    {
+      "rule_name": "Adjourned Games: Resumption with player to reply present",
+      "description": "If, at the agreed resumption time, the player having to reply to the sealed move is present, the envelope is opened, the sealed move made on the chessboard and his clock started.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 25
+    },
+    {
+      "rule_name": "Adjourned Games: Resumption with player to reply absent",
+      "description": "If, at the agreed resumption time, the player having to reply to the sealed move is not present, his clock shall be started. On his arrival, he may stop his clock and summon the arbiter. The envelope is then opened and the sealed move made on the chessboard. His clock is then restarted.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 25
+    },
+    {
+      "rule_name": "Adjourned Games: Resumption with player who sealed move absent",
+      "description": "If, at the agreed resumption time, the player who sealed the move is not present, his opponent has the right to record his reply on the scoresheet, seal his scoresheet in a fresh envelope, stop his clock and start the absent player's clock instead of making his reply in the normal manner. If so, the envelope shall be handed to the arbiter for safe-keeping and opened on the absent player's arrival.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 25
+    },
+    {
+      "rule_name": "Adjourned Games: Player late for resumption",
+      "description": "The player shall lose the game if he arrives at the chessboard more than one hour late for the resumption of an adjourned game.",
+      "conditions": [],
+      "exceptions": [
+        "Unless the rules of the competition specify or the arbiter decides otherwise.",
+        "If the player who made the sealed move is the late player, the game is decided otherwise, if: a. the absent player has won the game by virtue of the fact that the sealed move is checkmate, or b. the absent player has produced a drawn game by virtue of the fact that the sealed move is stalemate, or a position as described in Article 9.6 has arisen on the chessboard, or c. the player present at the chessboard has lost the game according to Article 6.9."
+      ],
+      "penalties": [
+        "Loss of game."
+      ],
+      "page_reference": 25
+    },
+    {
+      "rule_name": "Adjourned Games: Missing sealed move envelope",
+      "description": "If the envelope containing the sealed move is missing, the game shall continue from the position, with the clock times recorded at the time of adjournment. If the time used by each player cannot be re-established the arbiter shall set the clocks. The player who sealed the move makes the move he states he sealed on the chessboard.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 25
+    },
+    {
+      "rule_name": "Adjourned Games: Impossible to re-establish position",
+      "description": "If it is impossible to re-establish the position, the game is annulled and a new game must be played.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [
+        "Game annulled, new game played."
+      ],
+      "page_reference": 25
+    },
+    {
+      "rule_name": "Adjourned Games: Correcting time indication at resumption",
+      "description": "If, upon resumption of the game, either player points out before making his first move that the time used has been incorrectly indicated on either clock, the error must be corrected. If the error is not then established the game continues without correction.",
+      "conditions": [],
+      "exceptions": [
+        "Unless the arbiter feels that the consequences will be too severe."
+      ],
+      "penalties": [],
+      "page_reference": 25
+    },
+    {
+      "rule_name": "Adjourned Games: Resumption session control",
+      "description": "The duration of each resumption session shall be controlled by the arbiter's timepiece. The starting time and finishing time shall be announced in advance.",
+      "conditions": [],
+      "exceptions": [],
+      "penalties": [],
+      "page_reference": 25
+    }
+  ],
+  "numerical_constraints": [
+    {
+      "value": "79",
+      "unit": "th",
+      "context": "FIDE Congress",
+      "page_reference": 2
+    },
+    {
+      "value": "2008",
+      "unit": "year",
+      "context": "FIDE Congress adoption date",
+      "page_reference": 2
+    },
+    {
+      "value": "1",
+      "unit": "July",
+      "context": "Laws of Chess coming into force date",
+      "page_reference": 2
+    },
+    {
+      "value": "2009",
+      "unit": "year",
+      "context": "Laws of Chess coming into force date",
+      "page_reference": 2
+    },
+    {
+      "value": "8",
+      "unit": "x 8",
+      "context": "chessboard grid size",
+      "page_reference": 3
+    },
+    {
+      "value": "64",
+      "unit": "squares",
+      "context": "total squares on chessboard",
+      "page_reference": 3
+    },
+    {
+      "value": "16",
+      "unit": "pieces",
+      "context": "number of light-coloured pieces",
+      "page_reference": 3
+    },
+    {
+      "value": "16",
+      "unit": "pieces",
+      "context": "number of dark-coloured pieces",
+      "page_reference": 3
+    },
+    {
+      "value": "2",
+      "unit": "squares",
+      "context": "pawn first move advance",
+      "page_reference": 5
+    },
+    {
+      "value": "2",
+      "unit": "squares",
+      "context": "king castling move",
+      "page_reference": 6
+    },
+    {
+      "value": "50",
+      "unit": "moves",
+      "context": "last 50 consecutive moves for drawn game",
+      "page_reference": 8
+    },
+    {
+      "value": "1",
+      "unit": "point",
+      "context": "score for winning a game",
+      "page_reference": 14
+    },
+    {
+      "value": "0",
+      "unit": "points",
+      "context": "score for losing or forfeiting a game",
+      "page_reference": 14
+    },
+    {
+      "value": "0.5",
+      "unit": "point",
+      "context": "score for drawing a game",
+      "page_reference": 14
+    },
+    {
+      "value": "15",
+      "unit": "minutes",
+      "context": "minimum time for Rapidplay game",
+      "page_reference": 17
+    },
+    {
+      "value": "60",
+      "unit": "minutes",
+      "context": "maximum time (less than) for Rapidplay game",
+      "page_reference": 17
+    },
+    {
+      "value": "3",
+      "unit": "games",
+      "context": "maximum games per arbiter for Rapidplay adequate supervision",
+      "page_reference": 17
+    },
+    {
+      "value": "3",
+      "unit": "moves",
+      "context": "minimum moves completed by each player before claims for initial setup in Rapidplay",
+      "page_reference": 17
+    },
+    {
+      "value": "15",
+      "unit": "minutes",
+      "context": "maximum time (less than) for Blitz game",
+      "page_reference": 17
+    },
+    {
+      "value": "1",
+      "unit": "game",
+      "context": "games per arbiter for Blitz adequate supervision",
+      "page_reference": 17
+    },
+    {
+      "value": "20",
+      "unit": "x 20 centimetres",
+      "context": "minimum size for specially constructed board for visually handicapped",
+      "page_reference": 20
+    },
+    {
+      "value": "5",
+      "unit": "minutes",
+      "context": "time interval marked by one dot on special clock for visually handicapped",
+      "page_reference": 21
+    },
+    {
+      "value": "15",
+      "unit": "minutes",
+      "context": "time interval marked by two raised dots on special clock for visually handicapped",
+      "page_reference": 21
+    },
+    {
+      "value": "5",
+      "unit": "minutes",
+      "context": "last 5 minutes of the full hour for feeling flag on special clock for visually handicapped",
+      "page_reference": 21
+    },
+    {
+      "value": "1",
+      "unit": "hour",
+      "context": "maximum lateness for resumption of adjourned game",
+      "page_reference": 25
+    },
+    {
+      "value": "5",
+      "unit": "minutes",
+      "context": "less than 5 minutes for recording moves in time trouble",
+      "page_reference": 12
+    },
+    {
+      "value": "30",
+      "unit": "seconds",
+      "context": "additional time added with each move (for recording moves in time trouble)",
+      "page_reference": 12
+    },
+    {
+      "value": "2",
+      "unit": "minutes",
+      "context": "less than 2 minutes left for quickplay finish draw claim",
+      "page_reference": 13
+    },
+    {
+      "value": "2",
+      "unit": "minutes",
+      "context": "extra time awarded to opponent for illegal moves in competition rules",
+      "page_reference": 11
+    },
+    {
+      "value": "3",
+      "unit": "minutes",
+      "context": "extra time awarded to opponent for incorrect draw claim",
+      "page_reference": 13
+    },
+    {
+      "value": "2",
+      "unit": "minutes",
+      "context": "extra time awarded to opponent when arbiter postpones/rejects quickplay finish draw claim",
+      "page_reference": 14
+    }
+  ],
+  "summary": null,
+  "ambiguities": [
+    "The Laws of Chess cannot cover all possible situations that may arise during a game, nor can they regulate all administrative questions. Where cases are not precisely regulated by an Article of the Laws, it should be possible to reach a correct decision by studying analogous situations which are discussed in the Laws. The Laws assume that arbiters have the necessary competence, sound judgement and absolute objectivity. Too detailed a rule might deprive the arbiter of his freedom of judgement and thus prevent him from finding the solution to a problem dictated by fairness, logic and special factors."
+  ]
+}
